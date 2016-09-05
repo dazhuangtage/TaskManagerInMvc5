@@ -1,0 +1,1 @@
+E:\TaskManagerInMvc5\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
